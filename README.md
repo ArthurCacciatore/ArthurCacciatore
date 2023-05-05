@@ -1,15 +1,15 @@
 ### Olá, sou o Arthur!👋
 
-- 🔭 Estudante universitário
-- 📫 Campo Grande-MS
+- 👨‍🎓 Estudante universitário
+- 🚩 Campo Grande-MS
 - 🐍 Aprendendo Python
-- 📱 Sonho em trabalhar com Inteligencia Artificial e Machine Learning
+- 🧠 Sonho em trabalhar com Inteligencia Artificial e Machine Learning
 - 🌱 Aberto para ajuda 
 
  ##
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurCacciatore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCacciatore&layout=compact&langs_count=7&theme=dark"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=ArthurCacciatore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCacciatore&layout=compact&langs_count=7&theme=dark"/>
  </div>
   
   ##
