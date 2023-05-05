@@ -3,7 +3,7 @@
 - 👨‍🎓 Estudante universitário
 - 🚩 Campo Grande-MS
 - 🐍 Aprendendo Python
-- 🧠 Sonho em trabalhar com Inteligencia Artificial e Machine Learning
+- 🧠 Busco trabalhar com Inteligencia Artificial e Machine Learning
 - 🌱 Aberto para ajuda 
 
  ##
