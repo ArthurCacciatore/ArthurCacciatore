@@ -2,9 +2,9 @@
 
 - 🔭 Estudante universitário
 - 📫 Campo Grande-MS
-- 🐍 Aprendendo Python e Data Science
-- 📱 Sonho em trabalhar com desenvolvimento mobile
-- 🌱 Ajuda é sempre bem vinda
+- 🐍 Aprendendo Python
+- 📱 Sonho em trabalhar com Inteligencia Artificial e Machine Learning
+- 🌱 Aberto para ajuda 
 
 ##
 
