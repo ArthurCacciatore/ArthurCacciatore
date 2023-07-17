@@ -3,7 +3,7 @@
 - 👨‍🎓 Estudante universitário
 - 🚩 Campo Grande-MS
 - 🐍 Aprendendo Python
-- 🧠 Busco trabalhar com Inteligencia Artificial e Machine Learning
+- 🧠 Estagiando na Compass Uol
 - 🌱 Aberto para ajuda 
 
  ##
