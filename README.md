@@ -3,7 +3,6 @@
 - 👨‍🎓 Estudante universitário
 - 🚩 Campo Grande-MS
 - 🐍 Aprendendo Python
-- 🧠 Estagiando na Compass Uol
 - 🌱 Aberto para ajuda 
 
  ##
